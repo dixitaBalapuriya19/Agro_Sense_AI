@@ -1,0 +1,15 @@
+
+# Security files
+.env
+.env.secure
+.env.local
+.env.production
+logs/
+*.log
+*.key
+*.pem
+*.crt
+
+# API keys and secrets
+secrets/
+*.secret
